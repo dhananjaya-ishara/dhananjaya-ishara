@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0a66c2">Ishara Dhananjaya</span></h1>
 
-<table align="center">
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
      <h3 align="LEFT">
@@ -15,7 +15,7 @@
   </a></td>
 </table>
 
-<table align="center" >
+<table align="center"border="0" cellpadding="10" cellspacing="0" >
 
   <tr>
     <td align="center" width="70%">
