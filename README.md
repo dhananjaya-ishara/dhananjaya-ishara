@@ -11,11 +11,10 @@
 </h3>
   </td>
     <td align="center">
-    <img width="40%" height="20%" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub Streak" />
-  </a></td>
+    <img width="130%" height="20%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="GitHub Streak" />
 </table>
 
-<table align="center"border="0" cellpadding="10" cellspacing="0" >
+<table align="center"border="0" cellpadding="0" cellspacing="0" >
 
   <tr>
     <td align="center" width="70%">
