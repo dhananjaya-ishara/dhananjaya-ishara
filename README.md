@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0a66c2">Ishara Dhananjaya</span></h1>
 
-<table align="center" border="0" >
+<table align="center"border="0" cellpadding="0" cellspacing="0" >
   <tr>
     <td align="center">
      <h3 align="LEFT">
